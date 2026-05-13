@@ -30,7 +30,7 @@ export default function Listagem() {
 
                     <tr>
                         <td>Guilherme Busnardo</td>
-                        <td>guilhermebusnardo</td>
+                        <td>guilhermebusnardo@gmail.com</td>
                         <td>Gb3rs</td>
                         <td>📝</td>
                         <td>🗑️</td>
@@ -61,9 +61,25 @@ export default function Listagem() {
                     </tr>
 
                     <tr>
+                        <td>Anajulia Biscassi</td>
+                        <td>anaju@gmail.com</td>
+                        <td>anaju00</td>
+                        <td>📝</td>
+                        <td>🗑️</td>
+                    </tr>
+
+                    <tr>
                         <td>Vinicius Matos</td>
                         <td>viniciusmatos@gmail.com</td>
                         <td>vini08</td>
+                        <td>📝</td>
+                        <td>🗑️</td>
+                    </tr>
+
+                    <tr>
+                        <td>Isabella Moreno</td>
+                        <td>isamoreno@gmail.com</td>
+                        <td>isa02</td>
                         <td>📝</td>
                         <td>🗑️</td>
                     </tr>
